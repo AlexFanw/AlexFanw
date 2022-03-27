@@ -1,5 +1,5 @@
 ### 🥤 About Me
-Hi, This is *Alex Fan*. If you want to contact me, please email to [alex8802732@gmail.com](alex8802732@gmail.com)
+Hi, This is *Alex Fan*. If you want to contact me, please email to alex8802732@gmail.com
 
 **📚 Education**
 - 🇭🇰**Master** · HKUST · Big Data Tech · ***Sep.2022-now***
