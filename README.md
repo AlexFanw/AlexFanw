@@ -11,6 +11,7 @@ Hi, This is *Alex Fan*. If you want to contact me, please email to [alex8802732@
 - **SDE Intern** · ByteDance · *Jun.2020-Dec.2020*
 
 **🔬 Research Interest**
+
 &ensp; Recommender System, Deep Reinforcement Learning, NLP
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexFanw&show_icons=true)
