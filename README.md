@@ -9,7 +9,7 @@ Hi, This is *Alex Fan*. If you want to contact me, please email to alex8802732@g
 **🚀 Work Experience**
 - **Research Assistant** · [HKUST(GZ)](https://hkust-gz.edu.cn/) · [Hao Liu](https://raymondhliu.github.io/) · ***May.2022-now***
 - **SDE** · [ByteDance](https://www.bytedance.com) · *Jul.2021-May.2022*
-- **Research Intern** · [HUST](https://hust.edu.cn/) · [CCIIP](http://cciip.cs.hust.edu.cn/) · *Jan.2021-Jun.2022*
+- **Research Intern** · [HUST](https://hust.edu.cn/) · [CCIIP](http://cciip.cs.hust.edu.cn/) · *Jan.2021-Jun.2021*
 - **SDE Intern** · [ByteDance](https://www.bytedance.com) · *Jun.2020-Dec.2020*
 
 **🔬 Research Interest**
