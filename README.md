@@ -1,5 +1,5 @@
 ### 🥤 About Me
-Welcome! I am currently an MSc of BDT student at the [Hong Kong University of Science and Technology]{https://hkust.edu.hk/}, and I will soon be starting my MPhil supervised by [Prof. Yangqiu Song]{https://hkust.edu.hk/}.
+Welcome! I am currently an MSc of BDT student at the [Hong Kong University of Science and Technology](https://hkust.edu.hk/), and I will soon be starting my MPhil supervised by [Prof. Yangqiu Song](https://hkust.edu.hk/).
 
 **🔬 Research Interest**
 - Recommender System: Conversational Recommender System
