@@ -2,9 +2,9 @@
 Welcome! I am currently an MPhil student supervised by [Prof.Yangqiu Song](https://www.cse.ust.hk/~yqsong/) at the [Hong Kong University of Science and Technology](https://hkust.edu.hk/).
 
 **🔬 Research Interest**
-- Recommender System: Conversational Recommender System
-- Reinforcement Learning: Hierarchical Reinforcement Learning
-- **Federated Learning: Privacy**
+- Recommender System
+- Reinforcement Learning
+- **Privacy**
 
 
 **📚 Education**
