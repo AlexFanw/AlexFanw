@@ -17,5 +17,3 @@ Welcome! I am currently an MPhil student supervised by [Prof. Yangqiu Song](http
 - Research Intern · [HUST](https://hust.edu.cn/) · [CCIIP](http://cciip.cs.hust.edu.cn/) · *Jan.2021-Jun.2021*
 - Software Engineer Intern · [ByteDance](https://www.bytedance.com) · *Jun.2020-Dec.2020*
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexFanw&show_icons=true)
-
