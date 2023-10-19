@@ -3,7 +3,7 @@ Welcome! I am currently an MPhil student supervised by [Prof. Yangqiu Song](http
 
 **🔬 Research Interest**
 - Reinforcement Learning for Recommender System
-- Privacy in Deep Learning
+- Privacy in Language Model
 
 **📚 Education**
 - **🇭🇰 MPhil · [HKUST](https://hkust.edu.hk/) · Computer Science · *Sep.2023-Now***
